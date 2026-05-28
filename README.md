@@ -1,4 +1,6 @@
 # Tableau de Bord Intelligent — Prédiction du Churn Bancaire
+## Live APP deployée: 
+https://dashboardbanking.streamlit.app/
 
 ## C'est quoi ce projet ?
 
