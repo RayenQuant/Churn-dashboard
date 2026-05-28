@@ -50,7 +50,7 @@ st.markdown("""
 ensure_db()
 
 # ── Sidebar filters ─────────────────────────────────────────────────────────
-st.sidebar.image("https://static.vecteezy.com/system/resources/previews/013/948/616/non_2x/bank-icon-logo-design-vector.jpg", width=72)
+st.sidebar.image("https://static.vecteezy.com/system/resources/previews/013/948/616/non_2x/bank-icon-logo-design-vector.jpg", width=100)
 st.sidebar.title("Churn Dashboard")
 st.sidebar.markdown("---")
 
